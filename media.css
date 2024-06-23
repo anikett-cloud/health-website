@@ -1,0 +1,138 @@
+@media only screen and (max-width: 956px) {
+  .mini-header p {
+    margin-top: 1.5% !important;
+  }
+
+  .NAVBAR {
+    margin-left: 2.4%;
+  }
+
+  .banner-section {
+    height: auto;
+  }
+
+  .more-button {
+    width: 29%;
+  }
+  .banner-heading {
+    margin-top: 70px;
+    text-align: center;
+  }
+  .about-section {
+    height: auto;
+  }
+  .about-section .row {
+    flex-direction: column-reverse;
+  }
+
+  .about-content-section p {
+    margin-top: 10% !important;
+    padding-top: 0% !important;
+  }
+  .about-para-content {
+    width: 100%;
+    margin-left: 0% !important;
+    height: auto;
+    /* background-color: yellowgreen; */
+  }
+
+  .about-heading {
+    /* background-color: navy; */
+    width: 100%;
+    margin-left: 0% !important;
+    text-align: center;
+  }
+  p.fs-5.about-para-content {
+    font-size: 18px !important;
+  }
+  .about-image-section img {
+    display: none;
+  }
+
+  .news-section {
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+  }
+
+  .news-box-section {
+    height: auto;
+    flex-wrap: wrap;
+  }
+
+  .news-box-1 {
+    width: 100%;
+  }
+
+  .caring-image {
+    background-position: center;
+  }
+
+  .meet-our-team-image-section {
+    flex-wrap: wrap;
+  }
+  .meet-our-team-section p {
+    margin-top: 0% !important;
+  }
+  .swiper {
+    height: auto !important;
+    /* background-color: rebeccapurple; */
+  }
+  .swiper-slide img {
+    height: auto !important;
+    /* background-color: red; */
+  }
+  .swiper-slide {
+    height: auto !important;
+  }
+  .meet-our-team-image-section {
+    height: auto;
+  }
+  input {
+    width: 300px !important;
+  }
+
+  .form-send-button {
+    width: 300px !important;
+  }
+  .CONTACT-P-TAG {
+    margin-left: 9px !important;
+  }
+  .footer-section {
+    height: auto;
+    flex-wrap: wrap;
+  }
+  .footer-1-div {
+    width: 100%;
+    height: auto;
+  }
+  .meet-our-team-image-section {
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .swiper {
+    margin: 20px 0px !important;
+  }
+  .form-div {
+    width: 100%;
+    margin-left: 0%;
+    height: auto;
+  }
+
+  input {
+    width: 80% !important;
+    height: 50px !important;
+    margin-left: 40px !important;
+  }
+  .form-send-button {
+    width: 80% !important;
+    margin-left: 40px !important;
+  }
+  .CONTACT-P-TAG {
+    margin-left: 38px !important;
+  }
+
+  .footer-first {
+    margin-left: 3%;
+  }
+}
